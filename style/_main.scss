@@ -5,7 +5,14 @@
   border-radius: 50%;
 }
 
-.fuck{
+.oval {
+  width: 2000px;
+  height: 500px;
+  background-color: green;
+  border-radius: 50%;
+  margin-top: 100px;
+}
+.fuck {
   display: flex;
   align-items: center;
   justify-self: center;
@@ -16,7 +23,7 @@
   border-radius: 10px;
 }
 
-a{
+a {
   text-align: center;
   text-decoration: none;
   color: red;
