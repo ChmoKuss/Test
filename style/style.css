@@ -27,4 +27,29 @@
   text-decoration: none;
   color: brown;
   width: 100%;
+}
+
+.oval {
+  width: 2000px;
+  height: 500px;
+  background-color: green;
+  border-radius: 50%;
+  margin-top: 100px;
+}
+
+.fuck {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  width: 200px;
+  height: 100px;
+  background-color: turquoise;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: green;
 }/*# sourceMappingURL=style.css.map */
