@@ -1,0 +1,13 @@
+.container {
+  padding: 0 16px;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.circle {
+  width: 500px;
+  height: 500px;
+  background-color: hotpink;
+  border-radius: 50%;
+}/*# sourceMappingURL=style.css.map */
