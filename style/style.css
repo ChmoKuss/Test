@@ -13,10 +13,18 @@
 }
 
 .kucha {
-  width: 350px;
-  height: 350px;
+  width: 150px;
+  height: 150px;
   background-color: chocolate;
   border-radius: 13%;
-  box-shadow: 30px;
+  box-shadow: 30px 10px 10px red;
   margin-top: 50px;
+}
+
+.kucha_bt {
+  font-size: 20px;
+  margin: 15px;
+  text-decoration: none;
+  color: brown;
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */
